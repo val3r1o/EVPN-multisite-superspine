@@ -5,9 +5,10 @@ Tha main point of this space is not the Ansible script, rather the Network confi
 Lab includes:
 
 ACCESS</br>
-Switch pair with MCLAG </br> 
+Switch pair with MCLAG </br>
 Single Homed Switch</br>
 LAG ports for Server attached (host=OS10)</br>
+LAG 2x1 and 2x2 links on Leaf1-pair </br>
 ACL's/ip-prefix filtering (this is not working due to GNS3)</br>
 
 FABRIC</br>
