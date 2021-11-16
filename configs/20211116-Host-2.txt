@@ -1,5 +1,5 @@
 ! Version 10.5.2.3
-! Last configuration change at Nov  16 14:11:43 2021
+! Last configuration change at Nov  16 15:01:15 2021
 !
 ip vrf default
 !
@@ -7,6 +7,7 @@ system-user linuxadmin password ****
 iscsi target port 860
 iscsi target port 3260
 hostname HOST2
+default mtu 9216
 username admin password **** role sysadmin priv-lvl 15
 aaa authentication login default local
 aaa authentication login console local
