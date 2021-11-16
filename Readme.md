@@ -19,6 +19,7 @@ VxLAN/EVPN overlay (Symetric IRB) - single CP for DC1/DC2 </br>
 VRF-route leaking with route-map selective route </br>
 Edge Leaf with BGP peering "outside" the fabric for Route type-5 </br>
 BFD enable (on Leaf1/Spines-only, to save CPU) </br>
+MTU aligned to 9216 all-over-the fabric and hosts </br>
 
 ROUTING</br>
 L3 interface towards external router for different VRF for route type 5 termination </br>
