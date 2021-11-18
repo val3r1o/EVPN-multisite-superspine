@@ -31,8 +31,7 @@ L3 VLAN interface for external BGP peering used to "emulate" NSX-T type of attac
 L2 exit to Firewall (OS10), FW1/FW2 over VxLAN communication </br>
 Static Route for DC1/DC2 exit/last resort Static route redistribution on EVPN for A/A DC exit/fail-over</br>
 
-
-![image](https://user-images.githubusercontent.com/20860769/141995965-94492816-e219-483f-aa9e-5b7dfd8f1a75.png)
+![image](https://user-images.githubusercontent.com/20860769/142396491-3ece6466-a257-4a71-87ce-600955edd701.png)
 
 
 NOTES:
