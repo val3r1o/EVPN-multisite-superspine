@@ -1,4 +1,7 @@
-</B>How to use</B>
+note: </br>
+Major update to OS10.5.3. Last 10.5.2.x backup on folder
+
+# How to use </br>
 
 Tha main point of this space is not the Ansible script, rather the Network configuration and possible replication of it.
 
