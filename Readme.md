@@ -36,5 +36,5 @@ Removed Static Route -> for DC1/DC2 exit AS-Path is honored on EVPN for A/A DC e
 NOTES:
 # ./ Backup.sh 
 
-Please review https://github.com/val3r1o/OS10backupFabric to understand how ./backup works</br>
+Please review https://github.com/val3r1o/os10-config-backup to understand how ./backup works</br>
 
